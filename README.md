@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hello! :sunny:
+
+I'm Kristiina, a professional oboe player turned programming student at [Hive Helsinki](https://www.hive.fi/en/)! :musical_note: :point_right: 👩‍💻
+Channelling my creativity towards coding and problem-solving has definitely
+
+
+
 
 <!--
-**krsalmi/krsalmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
