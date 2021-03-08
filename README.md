@@ -1,6 +1,6 @@
 ### Hello! :sunny:
 
-I'm Kristiina, a professional oboe player turned programming student at [Hive Helsinki](https://www.hive.fi/en/)! :musical_note: :point_right: 👩‍💻  
+I'm Kristiina, professional oboe player turned programming student at [Hive Helsinki](https://www.hive.fi/en/)! :musical_note: :point_right: 👩‍💻  
 I enjoy learning and channelling my creativity towards coding and problem solving. Soon I will be finishing the first leg of my studies at Hive and it will be time for me to find an internship where I can put my knowledge into action and learn completely new things!
 
 ## 🔭 I’m currently working on...  
