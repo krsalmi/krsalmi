@@ -16,10 +16,10 @@ I enjoy learning and channelling my creativity towards coding and problem solvin
 -CS50 from Harvard University, basics of computer science
 
 ## :mega: Languages and frameworks I've worked with..
--C, this is the main language we are learning in Hive Helsinki
--HTML, CSS, Javascript
--Python
--Python Flask
+-C, this is the main language we are learning in Hive Helsinki  
+-HTML, CSS, Javascript  
+-Python  
+-Python Flask  
 -SQL  
 
 <!--
