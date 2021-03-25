@@ -5,7 +5,7 @@ I enjoy learning and channelling my creativity towards coding and problem solvin
 
 ## 🔭 I’m currently working on...  
 
--[Reedtracker](http://www.reedtracker.com/), a Python Flask application, where oboe players can register to track the details of the reeds they are making. You can watch a little Youtube video presentation [here](https://youtu.be/XY-WkgoZPtU). Coded in Python, MySQL, Flask, HTML, CSS, Javascript  
+-[Reedtracker](http://www.reedtracker.com/), a Python Flask application, where oboe players can register to track the details of the reeds they are making. You can watch a little Youtube video presentation [here](https://www.youtube.com/watch?v=nX4bWLfkhLs). Coded in Python, MySQL, Flask, HTML, CSS, Javascript  
 
 -a school project called [Corewar](https://github.com/ninjapiraatti/corewar) with a team of talented coders. In this project, we must build a virtual memory arena (basically a Virtual Machine) in which different programs will be executed and "fight each other" by performing op codes and overwriting the memory area. We must also create an assembler to compile assembly code into bytecode. Coded in C 
 
