@@ -10,10 +10,11 @@ I enjoy learning and channelling my creativity towards coding and problem solvin
 -a school project called [Corewar](https://github.com/ninjapiraatti/corewar) with a team of talented coders. In this project, we must build a virtual memory arena (basically a Virtual Machine) in which different programs will be executed and "fight each other" by performing op codes and overwriting the memory area. We must also create an assembler to compile assembly code into bytecode. Coded in C 
 
 ## 🌱 Other things I’m currently studying ...
--Elements of AI, the course of understading the basics of artificial intelligence from University of Helsinki and Reaktor
+-FullstackOpen, a Helsinki University course
 
 ## :white_check_mark: Courses I've completed...
 -CS50 from Harvard University, basics of computer science
+-Elements of AI, the course of understading the basics of artificial intelligence from University of Helsinki and Reaktor
 
 ## :mega: Languages and frameworks I've worked with..
 -C, this is the main language we are learning in Hive Helsinki  
