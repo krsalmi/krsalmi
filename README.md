@@ -15,7 +15,7 @@ I enjoy learning and channelling my creativity towards coding and problem solvin
 -FullstackOpen, a Helsinki University course
 
 ## :white_check_mark: Courses I've completed...
--CS50 from Harvard University, basics of computer science
+-CS50 from Harvard University, basics of computer science  
 -Elements of AI, the course of understading the basics of artificial intelligence from University of Helsinki and Reaktor
 
 ## :mega: Languages and frameworks I've worked with..
