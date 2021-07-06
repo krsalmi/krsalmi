@@ -9,8 +9,6 @@ I enjoy learning and channelling my creativity towards coding and problem solvin
 
 -A [website](https://krsalmi.github.io/) for my friends at Game Music Collective to showcase the musical and other media projects they've created  
 
--a school project called [Corewar](https://github.com/ninjapiraatti/corewar) with a team of talented coders. In this project, we must build a virtual memory arena (basically a Virtual Machine) in which different programs will be executed and "fight each other" by performing op codes and overwriting the memory area. We must also create an assembler to compile assembly code into bytecode. Coded in C 
-
 ## 🌱 Other things I’m currently studying ...
 -FullstackOpen, a Helsinki University course
 
