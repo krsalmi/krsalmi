@@ -10,7 +10,7 @@ I enjoy learning and channelling my creativity towards coding and problem solvin
 -A [website](https://krsalmi.github.io/) for my friends at Game Music Collective to showcase the musical and other media projects they've created  
 
 ## 🌱 Other things I’m currently studying ...
--FullstackOpen, a Helsinki University course
+-APIs and how they work (check out my [Viral-Tweet-Seacher](https://github.com/krsalmi/Viral-Tweet-Searcher-using-the-Twitter-API) program)
 
 ## :white_check_mark: Courses I've completed...
 -CS50 from Harvard University, basics of computer science  
