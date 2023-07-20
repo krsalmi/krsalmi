@@ -1,7 +1,7 @@
 ### Hello! :sunny:
 
-I'm Kristiina, professional oboe player turned programming student at [Hive Helsinki](https://www.hive.fi/en/)! :musical_note: :point_right: 👩‍💻  
-I enjoy learning and channelling my creativity towards coding and problem solving. Soon I will be finishing the first leg of my studies at Hive and it will be time for me to find an internship where I can put my knowledge into action and learn completely new things!
+I'm Kristiina, professional oboe player turned programmer! :musical_note: :point_right: 👩‍💻  
+Currently I'm working as a software engineer at [Digious](https://digious.fi/) by Innokas Medical and I'm also part of the [Hive Helsinki](https://www.hive.fi/en/) alumni. I enjoy learning and channelling my creativity towards coding and problem solving. Lately, I have been very curious about AI and I have been studying the fundamentals on my own.
 
 ## 🔭 Some projects I'd like to tell you about...  
 
