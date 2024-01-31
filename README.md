@@ -5,13 +5,14 @@ Currently I'm working as a software engineer at [Digious](https://digious.fi/) b
 
 ## 🔭 Some projects I'd like to tell you about...  
 
+- [AI Digit Recognition Web App](https://digitrecognition-ai.onrender.com), an application that uses machine learning to recognize handwritten digits. The frontend, built with React, allows users to draw digits on a canvas and send the drawing to a backend Python Flask server to predict what digit they drew using a pre-trained machine learning model.
+Users can also try retraining the model themselves. You can check out the code for both the [frontend](https://github.com/krsalmi/ai_digits_frontend.git) and the [backend](https://github.com/krsalmi/ai_digits_backend.git).
+
 -[Reedtracker](http://www.reedtracker.com/), a Python Flask application, where oboe players can register to track the details of the reeds they are making. You can watch a little Youtube video presentation [here](https://www.youtube.com/watch?v=nX4bWLfkhLs). Coded in Python, MySQL, Flask, HTML, CSS, Javascript   
 
 -[WeShare](https://github.com/krsalmi/weshare), my own modified version of a cost-sharing app, which receives information from command line arguments. In this program, it’s also possible to adjust the share of participants. Written in Python. 
 
 -[Corewar](https://github.com/ninjapiraatti/corewar), a team project for school in which we coded our own assembler and a Virtual Machine to play our version of the legendary memory conquering game, Core War. I was mostly in charge of the creation of the Virtual Machine and the Visualizer built to accompany it. Written in C.  
-
--A [website](https://krsalmi.github.io/) for my friends at Game Music Collective to showcase the musical and other media projects they've created  
 
 ## 🌱 Other things I’m currently studying ...
 -APIs and how they work  
