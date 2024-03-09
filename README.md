@@ -10,7 +10,7 @@ Users can also try retraining the model themselves. You can check out the code f
 
 -[Nim](https://github.com/krsalmi/nim.git), a Python program of the classic game, Nim, with an AI player, trained with reinforcement learning (Q learning).
 
--[Tic Tac Toe](https://github.com/krsalmi/tictactoe.git), the game as a Python program with an AI player. written using the minimax algorithm.
+-[Tic Tac Toe](https://github.com/krsalmi/tictactoe.git), the game as a Python program with an AI player, written using the minimax algorithm.
 
 -[Reedtracker](http://www.reedtracker.com/), a Python Flask application, where oboe players can register to track the details of the reeds they are making. You can watch a little Youtube video presentation [here](https://www.youtube.com/watch?v=nX4bWLfkhLs). Coded in Python, MySQL, Flask, HTML, CSS, Javascript 
 
