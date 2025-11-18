@@ -12,6 +12,8 @@ I've been working as a software engineer for over 4 years, and I'm also part of 
 - [AI Digit Recognition Web App](https://digitrecognition-ai.onrender.com), an application that uses machine learning to recognize handwritten digits. The frontend, built with React, allows users to draw digits on a canvas and send the drawing to a backend Python Flask server to predict what digit they drew using a pre-trained machine learning model.
 Users can also try retraining the model themselves. You can check out the code for both the [frontend](https://github.com/krsalmi/ai_digits_frontend.git) and the [backend](https://github.com/krsalmi/ai_digits_backend.git).
 
+- Some websites I've designed and made w Webflow and JS: [Sunday Child Entertainment](https://www.sundaychildfilm.com/), [Eximware](https://www.eximware.com/)
+
 - [Nim](https://github.com/krsalmi/nim.git), a Python program of the classic game, Nim, with an AI player, trained with reinforcement learning (Q learning).
 
 - [Tic Tac Toe](https://github.com/krsalmi/tictactoe.git), the game as a Python program with an AI player, written using the minimax algorithm.
